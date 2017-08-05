@@ -1,0 +1,3 @@
+rootProject.name = 'AnyDumper'
+
+include ':app'
